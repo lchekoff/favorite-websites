@@ -11,3 +11,7 @@ Simple HTML site that shows a list of websites I visit often with clickable link
 ## Technologies Used
 
 - HTML only
+
+## Live Demo
+
+https://lchekoff.github.io/favorite-websites/
